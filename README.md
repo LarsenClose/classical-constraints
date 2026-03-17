@@ -1,3 +1,6 @@
+[![Lean Action CI](https://github.com/LarsenClose/classical-constraints/actions/workflows/ci.yml/badge.svg)](https://github.com/LarsenClose/classical-constraints/actions/workflows/ci.yml)
+[![Documentation](https://img.shields.io/badge/docs-GitHub%20Pages-blue)](https://larsenclose.github.io/classical-constraints/)
+
 # classical-constraints
 
 Seven chains from seven mathematical domains (SAT, proof complexity, descriptive complexity, CSP/polymorphisms, algebraic proof systems, extension complexity, distributed protocols), each formalized through domain-specific structures to a shared lock theorem architecture. All seven chains have both lock theorems and direct bridge theorems. 84 Lean files, zero sorry.
